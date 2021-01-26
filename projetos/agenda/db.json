@@ -1,0 +1,18 @@
+{
+    "tarefas": [
+        {
+            "id": 1,
+            "descricao": "Gravar as aulas do curso de Bot",
+            "dt_previsao": "2021-01-26",
+            "dt_conclusao": null,
+            "observacao": "Lembrar de verificar a bateria dos equipamentos"
+        },
+        {
+            "id": 2,
+            "descricao": "Criar bot de cálculo de mercado",
+            "dt_previsao": "2021-01-28",
+            "dt_conclusao": null,
+            "observacao": "Não esquecer dos peixes"
+        }
+    ]
+}
