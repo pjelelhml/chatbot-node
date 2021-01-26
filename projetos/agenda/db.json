@@ -1,18 +1,32 @@
 {
-    "tarefas": [
-        {
-            "id": 1,
-            "descricao": "Gravar as aulas do curso de Bot",
-            "dt_previsao": "2021-01-26",
-            "dt_conclusao": null,
-            "observacao": "Lembrar de verificar a bateria dos equipamentos"
-        },
-        {
-            "id": 2,
-            "descricao": "Criar bot de cálculo de mercado",
-            "dt_previsao": "2021-01-28",
-            "dt_conclusao": null,
-            "observacao": "Não esquecer dos peixes"
-        }
-    ]
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Gravar as aulas do curso de Bot",
+      "dt_previsao": "2021-01-26",
+      "dt_conclusao": "2021-01-26",
+      "observacao": "Lembrar de verificar a bateria dos equipamentos"
+    },
+    {
+      "id": 2,
+      "descricao": "Criar bot de cálculo de mercado",
+      "dt_previsao": "2021-01-28",
+      "dt_conclusao": null,
+      "observacao": "Não esquecer dos peixes"
+    },
+    {
+      "id": 5,
+      "descricao": "Tarefa para hoje",
+      "dt_previsao": "2021/01/30",
+      "dt_conclusao": null,
+      "observacao": "tarefa para hoje"
+    },
+    {
+      "descricao": "Cria uma tarefa ai pra eu testar",
+      "dt_previsao": "2021/02/02",
+      "dt_conclusao": "2021-01-26",
+      "observacao": "Uma observação para saber se está funcionando...",
+      "id": 6
+    }
+  ]
 }
